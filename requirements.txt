@@ -1,0 +1,17 @@
+dj-database-url
+Django
+django-cors-headers
+django-cron
+django-heroku
+django-summernote
+django-utils-six
+djangorestframework
+gunicorn
+psycopg2
+PyPDF2
+pytest
+pytest-django
+python-dotenv
+requests
+six
+whitenoise
