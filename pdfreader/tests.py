@@ -1,7 +1,7 @@
 from .pdf2 import read_pdf, strip_line, get_applicants_data
 # Create your tests here.
 
-def test_read_pdf():
+def test_get_length_pdf_lines():
     """
         Test to calculate length of lines in raw list
     """
@@ -10,7 +10,7 @@ def test_read_pdf():
 
 
 
-def test_strip_line():
+def test_count_no_sex_found():
     """
         Test to count number of applicants with no sex found
     """
@@ -23,7 +23,7 @@ def test_strip_line():
     assert count == 72
 
 
-def test_get_applicants_data():
+def test_get_length_of_data():
     """
         Test to count number of applicants data
     """
