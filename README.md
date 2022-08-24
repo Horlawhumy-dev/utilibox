@@ -18,7 +18,7 @@
 - Lastly, Run `python manage.py runserver` to spin up server locally.
 
 
-[See Documentation](https://documenter.getpostman.com/view/18546780/UzBsGic7)
+[See Documentation](https://documenter.getpostman.com/view/18546780/VUjSEiHx)
 ### Thank You! Happy Coding
 
 #### Do not hesitate to reach out if there is any issue. `harof.dev@gmail.com`.
